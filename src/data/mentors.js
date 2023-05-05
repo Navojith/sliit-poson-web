@@ -30,19 +30,22 @@ export const mentors = [
   {
     id: 4,
     name: "Mr Aruna Ishara",
-    designation: "Lecturer - Computer Science and Software Engineering - Computing (FOC)",
+    designation:
+      "Lecturer - Computer Science and Software Engineering - Computing (FOC)",
     image: aruna,
   },
   {
     id: 5,
     name: "Mr Didula Chamara",
-    designation: "Lecturer - Computer Science and Software Engineering - Computing (FOC)",
+    designation:
+      "Lecturer - Computer Science and Software Engineering - Computing (FOC)",
     image: didula,
   },
   {
     id: 6,
     name: "Ms Devanshi Ganegoda",
-    designation: "Lecturer - Computer Science and Software Engineering - Computing (FOC)",
+    designation:
+      "Lecturer - Computer Science and Software Engineering - Computing (FOC)",
     image: devanshi,
   },
   {
